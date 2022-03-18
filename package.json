@@ -1,0 +1,24 @@
+{
+  "name": "lannisterpay_transaction_processing_service",
+  "version": "1.0.0",
+  "description": "Transaction fee processing service for lannisterpay",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Melody Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "joi": "^17.6.0",
+    "lodash": "^4.17.21",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  }
+}
