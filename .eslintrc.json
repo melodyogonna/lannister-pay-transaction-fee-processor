@@ -1,0 +1,7 @@
+{
+  "extends": [ "airbnb", "prettier" ],
+  "env": {
+    "node": true,
+    "mocha": true
+  }
+}

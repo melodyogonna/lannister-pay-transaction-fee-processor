@@ -1,4 +1,4 @@
-#Lannisterpay transaction fee processing service
+# Lannisterpay transaction fee processing service
 
 This service determines the correct fee to charge for transactions on Lannisterpay following predefined rules.
 
